@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Logo]:https://5b0988e595225.cdn.sohucs.com/images/20171011/cefc107b8ea84214b3d6a951a14e8d41.jpeg
+![LOGO](./images/main.jpeg)
 
 Hi! Welcome to my profile page!<br>
 I am an android developer.<br>
