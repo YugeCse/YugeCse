@@ -6,8 +6,7 @@ Hi! Welcome to my profile page! <br><br>
 I am an android developer.<br><br> 
 I use Java、Kotlin、Dart、Golang、Html(Javascript/Css)、SQL. <br> <br>
 
-This is **[my blog](https://www.jianshu.com/u/9178bdd8f353 "简书")** , it records
-that my daily development.
+This is **[my blog](https://www.jianshu.com/u/9178bdd8f353 "简书")** , it records my daily development.
 </td><td style="width:500px;">
 <img src="./images/main.jpeg" style="width:500px;" alt="YugeCse"/>
 </td><tr></table>
