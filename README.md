@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![LOGO](./images/main.jpeg)
+![LOGO](https://raw.githubusercontent.com/YugeCse/YugeCse/main/images/main.jpeg)
 
 Hi! Welcome to my profile page!<br>
 I am an android developer.<br>
